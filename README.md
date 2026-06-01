@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sweet-affection/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sweet Affection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-affection/) |
+| **Get License** | [Request Licensing for Sweet Affection](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sweet-affection/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the heat when you're looking my way
+> Under the stars at the end of the day
+> Drawing me close with a whisper so light
+> We're letting the shadows just hide us tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
